@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1",
+        "image": "https://th.bing.com/th/id/R.53f865142003e50fcb2e283629a91089?rik=JCs865ak9DKOGQ&riu=http%3a%2f%2fgradblog.schulich.yorku.ca%2fwp-content%2fuploads%2f2020%2f09%2fcoins-948603_1280-700x441.jpg&ehk=JN9mucEfxkbU69gSM1ChCyGNcZF4XYE2fKL89Qp3WUs%3d&risl=&pid=ImgRaw&r=0",
+        "title": "Bachelor of Science in Business Administration"
+    },
+    {
+        "id": "2",
+        "image": "https://www.duelit.com/wp-content/uploads/2022/07/Twitter-Post-1024x512-px-2-2.jpeg",
+        "title": "Bachelor of Science in Entrepreneurship"
+    },
+    {
+        "id": "3",
+        "image": "https://www.onlineeducationdirectory.com.au/media/com_jbusinessdirectory/pictures/secondary_school_1.jpg",
+        "title": "Bachelor of Secondary Education"
+    },
+    {
+        "id": "4",
+        "image": "https://static.vecteezy.com/system/resources/previews/006/867/047/non_2x/an-editable-of-primary-education-basic-education-vector.jpg",
+        "title": "Bachelor of Elementary Education"
+    },
+    {
+        "id": "5",
+        "image": "https://lee154pe.weebly.com/uploads/2/4/8/9/24893360/895382897.jpg",
+        "title": "Bachelor of Physical Education"
+    },
+    {
+        "id": "6",
+        "image": "https://www.mul.edu.pk/images/programs/bs-mathematics_5.jpg",
+        "title": "Bachelor of Science in Mathematics"
+    },
+    {
+        "id": "7",
+        "image": "https://cdn.leverageedu.com/blog/wp-content/uploads/2020/06/02130328/BA-English-800x500.png",
+        "title": "Bachelor of Arts in English Language"
+    },
+    {
+        "id": "8",
+        "image": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/03/05192141/BA-Psychology-760x475.png",
+        "title": "Bachelor of Arts in Psychology"
+    },
+    {
+        "id": "9",
+        "image": "https://cdn.leverageedu.com/blog/wp-content/uploads/2020/08/06185124/Branches-of-Social-Sciences-1.png",
+        "title": "Bachelor of Arts in Social Science"
+    },
+    {
+        "id": "10",
+        "image": "https://th.bing.com/th/id/OIP.otq_qvOLSriR5G5mdZDdFwHaGc?w=557&h=485&rs=1&pid=ImgDetMain",
+        "title": "Bachelor of Science in Information Technology"
+    },
+    {
+        "id": "11",
+        "image": "https://miu.edu.ng/wp-content/uploads/2021/06/master-of-public-administration-1024x683-1.png",
+        "title": "Bachelor of Science in Public Administration"
+    },
+    {
+        "id": "12",
+        "image": "https://www.aiming.in/wp-content/uploads/2017/09/master-of-science-course.jpg",
+        "title": "Master of Science in Education"
+    },
+    {
+        "id": "13",
+        "image": "https://i.ytimg.com/vi/Aah39MRs_e0/hqdefault.jpg",
+        "title": "Master of Arts in Education"
+    }
+    
+    
+]
